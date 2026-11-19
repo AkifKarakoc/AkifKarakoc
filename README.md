@@ -22,10 +22,10 @@ I turn AI models into apps people actually use: from training the model, to serv
 
 ### 🛠️ Tech stack
 
-**AI / ML:** Python · YOLO (Ultralytics) · OpenCV · TensorFlow Lite · RAG · Ollama · Gemini API
-**Backend:** Java · Spring Boot · Kafka · Redis · PostgreSQL / PostGIS · Liquibase
-**Mobile & Web:** Flutter · Dart · React · TypeScript · Vue 3
-**Tools:** Docker · Git · Google Colab · Roboflow
+- **AI / ML:** Python · YOLO (Ultralytics) · OpenCV · TensorFlow Lite · RAG · Ollama · Gemini API
+- **Backend:** Java · Spring Boot · Kafka · Redis · PostgreSQL / PostGIS · Liquibase
+- **Mobile & Web:** Flutter · Dart · React · TypeScript · Vue 3
+- **Tools:** Docker · Git · Google Colab · Roboflow
 
 ### 📫 Contact
 
