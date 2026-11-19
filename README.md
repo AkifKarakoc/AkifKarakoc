@@ -12,7 +12,7 @@ I turn AI models into apps people actually use: from training the model, to serv
 | Project | What it is | Stack |
 |---|---|---|
 | **[BioCycle AI](https://github.com/AkifKarakoc/iot-mobile)** | On-device organic waste detection with a custom-trained YOLO11m model (**mAP@50 0.84**, 12 classes, 3,337 images), plus compost and animal-feed advice from Gemini. Images come from an ESP32-CAM or the phone camera. | YOLO11 · TFLite · Flutter · Gemini · ESP32-CAM |
-| **[TouDo](https://github.com/AkifKarakoc/toudo-backend)** | AI-powered city guide for Izmir (graduation project): geospatial place search, a RAG chatbot on a local LLM, landmark recognition from photos and gamified quests. [Mobile app →](https://github.com/AkifKarakoc/toudo-mobile) | Spring Boot · PostGIS · Redis · Ollama · Flutter |
+| **[TouDo](https://github.com/AkifKarakoc/toudo-backend)** | AI-powered city guide for Izmir (graduation project): geospatial place search, a RAG chatbot on a local LLM, landmark recognition from photos (a team-trained YOLO11 model for 9 landmarks, with a Google Vision fallback for places it doesn’t know) and gamified quests. [Mobile app →](https://github.com/AkifKarakoc/toudo-mobile) | Spring Boot · PostGIS · Redis · Ollama · Flutter |
 | **[Flight Management System](https://github.com/AkifKarakoc/flight-management-system)** | Microservice system I designed and built on my own in 5 weeks during my internship at TAV Technologies: event-driven cache consistency with Kafka, retries and circuit breakers. | Spring Boot · Kafka · Redis · Resilience4j · Vue 3 |
 
 ### 💼 Experience
